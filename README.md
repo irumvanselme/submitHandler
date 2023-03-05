@@ -1,17 +1,17 @@
-# irumvanselme/submitHandler
+# submitHandler
 
 > This package is used to help react and view developers to be able to access information in the form at ease.
 
 ## Instalation
 
-`yarn add @irumvanselme/submithandler` or `npm install @irumvanselme/submithandler`
+`yarn add submithandler` or `npm install submithandler`
 
 
 ## Usage
 
 ```tsx
 
-import { submitHandler } from "@irumvanselme/submithandler"
+import { submitHandler } from "submithandler"
 
 export function MyComponent(){
 
