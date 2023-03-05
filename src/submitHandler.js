@@ -20,14 +20,10 @@ function formToObject(form) {
   return obj;
 }
 
-function submitHandler(callback) {
+export function submitHandler(callback) {
   return function (event) {
     event.preventDefault();
 
     callback(formToObject(event.target));
   };
-}
-
-module.exports = {
-  submitHandler
 }

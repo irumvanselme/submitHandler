@@ -1,6 +1,8 @@
-var { submitHandler } = require("./src/submitHandler")
+import { submitHandler } from "./src/submitHandler.js"
 
-module.exports = {
+let version = "1.0.5"
+
+export {
   submitHandler,
-  version: "1.1.0"
+  version
 }
