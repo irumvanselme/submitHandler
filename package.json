@@ -1,7 +1,19 @@
 {
-  "name": "submitHandler",
+  "name": "@irumvanselme/submithandler",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Anselme Habumugisha Irumva <andesanselme@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irumvanselme/submitHandler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/irumvanselme/submitHandler/issues"
+  },
+  "homepage": "https://github.com/irumvanselme/submitHandler#readme",
+  "description": ""
 }
