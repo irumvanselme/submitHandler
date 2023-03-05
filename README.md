@@ -7,7 +7,7 @@
 `yarn add @irumvanselme/submithandler` or `npm install @irumvanselme/submithandler`
 
 
-# Usage
+## Usage
 
 ```tsx
 
@@ -36,3 +36,8 @@ export function MyComponent(){
 
 
 ```
+
+
+## Implementation
+
+> The Object parsed to your function is constructed from the formula of keys as input names and values as input values.
