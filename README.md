@@ -1,6 +1,6 @@
 # submitHandler
 
-> This package is used to help react and view developers to be able to access information in the form at ease.
+> This package is used to help react and vue developers to be able to access information in the form at ease.
 
 ## Instalation
 
